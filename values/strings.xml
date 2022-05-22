@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MySystemLogOut</string>
+    <string name="Login">Email</string>
+    <string name="Password">Пароль</string>
+    <string name="Registration">Зарегистрироваться тут</string>
+    <string name="ButLog">Авторизоваться</string>
+</resources>
